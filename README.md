@@ -1,6 +1,6 @@
 # simple neural logic
 
-This code test a simple neural network's ability to learn 6 binary logical operators: AND, OR, XOR, NAND, NOR, and EQUAL.
+This code test a neural network's ability to learn 6 binary logical operators: AND, OR, XOR, NAND, NOR, and EQUAL.
 
 A line graph is generated plotting F1 scores for each operator against number of training epochs.
 
